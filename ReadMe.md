@@ -1,6 +1,3 @@
-# 💫 About Me:
-Linux user<br>I sometimes make rices/dotfiles<br>Most free time spent gaming<br>ASUS FX505DT laptop<br>X11 lover
-
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@skedster) 
